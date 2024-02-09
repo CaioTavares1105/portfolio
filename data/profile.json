@@ -13,7 +13,7 @@
         },
         {
           "name": "JavaScript",
-          "logo": "https://raw.githubusercontent.com/CaioTavares1105/js-developer-portfolio/main/data/imgs/js.png"
+          "logo": "https://raw.githubusercontent.com/CaioTavares1105/portfolio/main/assets/lenguages/js.png"
         },
         {
           "name": "HTML",
@@ -21,11 +21,11 @@
         },
         {
           "name": "CSS",
-          "logo": "https://raw.githubusercontent.com/CaioTavares1105/portfolio/91cf568b0eba4ca458a97fba585322c3de9d7b1e/assets/lenguages/css.svg"
+          "logo": "https://raw.githubusercontent.com/CaioTavares1105/portfolio/main/assets/lenguages/css.png"
         },
         {
           "name": "VScode",
-          "logo": "https://raw.githubusercontent.com/CaioTavares1105/js-developer-portfolio/main/data/imgs/vscode.png"
+          "logo": "https://raw.githubusercontent.com/CaioTavares1105/portfolio/main/assets/lenguages/vscode.png"
         }
   
       ],
