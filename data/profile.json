@@ -13,19 +13,19 @@
         },
         {
           "name": "JavaScript",
-          "logo": "https://raw.githubusercontent.com/CaioTavares1105/portfolio/mainassets/lenguages/js.png"
+          "logo": "https://raw.githubusercontent.com/CaioTavares1105/portfolio/main/assets/lenguages/js.png"
         },
         {
           "name": "HTML",
-          "logo": "https://raw.githubusercontent.com/CaioTavares1105/portfolio/mainassets/lenguages/html.png" 
+          "logo": "https://raw.githubusercontent.com/CaioTavares1105/portfolio/main/assets/lenguages/html.png" 
         },
         {
           "name": "CSS",
-          "logo": "https://raw.githubusercontent.com/CaioTavares1105/portfolio/mainassets/lenguages/css.png"
+          "logo": "https://raw.githubusercontent.com/CaioTavares1105/portfolio/main/assets/lenguages/css.png"
         },
         {
           "name": "VScode",
-          "logo": "https://raw.githubusercontent.com/CaioTavares1105/portfolio/mainassets/lenguages/vscode.png"
+          "logo": "https://raw.githubusercontent.com/CaioTavares1105/portfolio/main/assets/lenguages/vscode.png"
         }
   
       ],
