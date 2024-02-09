@@ -1,0 +1,56 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Open Sans', "sans-serif";
+}
+
+body {
+color: black;
+color: #fff;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+
+.main{
+    margin: 1rem;
+    padding: 1rem;
+    border: 1px solid #fff;
+    border-radius: 1rem;
+}
+
+.main::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: url('assets/img/background2.svg') no-repeat center center fixed;
+    background-size: cover;
+    z-index: -1;
+}
+ 
+
+
+
+
+
+@media only screen and (min-width: 768px) {
+    .main {
+        max-width: 1024px;
+        margin: 1rem auto;
+    }
+
+    .main::before {
+        width: 246vh;
+        height: 282vh;
+    }
+ }
