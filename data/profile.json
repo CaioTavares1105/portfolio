@@ -1,0 +1,67 @@
+{
+    "name": "Caio R F Tavares",
+    "photo": "https://media.licdn.com/dms/image/D4D03AQHEm1ZNr4_AFg/profile-displayphoto-shrink_800_800/0/1707477595668?e=1712793600&v=beta&t=yyE0yK1Td9NjeQ_O8Emekq-qIL4dSvj5jit98ezU0wU",
+    "job": "Developer Studant",
+    "location": "Portugal - PT",
+    "phone": "+351 934 866 771",
+    "email": "caioccca1105@gmail.com",
+    "skills": {
+      "hardSkills": [
+        {
+          "name": "Nodejs",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "https://raw.githubusercontent.com/CaioTavares1105/js-developer-portfolio/main/data/imgs/js.png"
+        },
+        {
+          "name": "HTML",
+          "logo": "https://raw.githubusercontent.com/CaioTavares1105/js-developer-portfolio/main/data/imgs/html.png" 
+        },
+        {
+          "name": "CSS",
+          "logo": "https://raw.githubusercontent.com/CaioTavares1105/js-developer-portfolio/main/data/imgs/css.png"
+        },
+        {
+          "name": "VScode",
+          "logo": "https://raw.githubusercontent.com/CaioTavares1105/js-developer-portfolio/main/data/imgs/vscode.png"
+        }
+  
+      ],
+      "softSkills": [
+        "Prestativo",
+        "Entendimento Rapido",
+        "Trabalho em equipe",
+        "Flexibilidade",
+        "Resiliencia"
+      ]
+    },
+    "languages": [
+      "Português (Fluente)",
+      "Inglês (avançado)",
+      "Espanhol (iniciante)"
+    ],
+    "portfolio": [
+     
+      {
+        "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
+        "url": "https://github.com/CaioTavares1105/js-developer-portfolio.git",
+        "github": true,
+        "certifaco": "https://www.dio.me/certificate/6DIEMNTH/share"
+      }
+      
+    ],
+    "formation": [
+      {
+        "name": "JavaScript Developer Formacion",
+        "period": "01/2024 - 02/2024",
+        "description": "Curso de JavaScript completo, começando desde a logica de progamação até coceitos avançada"
+      },
+      {
+        "name": "Logica de Progamação",
+        "period": "2023 - 2024",
+        "description": "formação voltada a lóica de proamação, uma parte fundamental no desenvolvimento de softwares desde o basico até conceitos avançados"
+      }
+    ]
+  }
