@@ -47,6 +47,22 @@ a:hover {
     .main {
         max-width: 1024px;
         margin: 1rem auto;
+
+    }
+
+    .main::before {
+        width: 246vh;
+        height: 282vh;
+    }
+ }
+
+
+
+ @media only screen and (max-width: 768px) {
+    .main {
+        max-width: 1024px;
+        margin: 1rem auto;
+
     }
 
     .main::before {
