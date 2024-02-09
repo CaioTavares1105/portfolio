@@ -44,19 +44,23 @@
 
 .information .job::before {
     background-image:url('../img/icons/job.svg');
+    filter: brightness(0) invert(1);
     
 }
 
 .information .location::before {
     background-image:url('../img/icons/location.svg');
+    filter: brightness(0) invert(1);
 }
 
 .information .phone::before {
     background-image:url('../img/icons/phone.svg');
+    filter: brightness(0) invert(1);
 }
 
 .information .mail::before {
     background-image:url('../img/icons/mail.svg');
+    filter: brightness(0) invert(1);
 }
 
 
