@@ -43,20 +43,20 @@
 
 
 .information .job::before {
-    background-image: url(asstes/img/icons/job.svg);
+    background-image: url(/asstes/img/icons/job.svg);
     
 }
 
 .information .location::before {
-    background-image: url(asstes/img/icons/location.svg);
+    background-image: url(/asstes/img/icons/location.svg);
 }
 
 .information .phone::before {
-    background-image: url(asstes/img/icons/phone.svg);
+    background-image: url(/asstes/img/icons/phone.svg);
 }
 
 .information .mail::before {
-    background-image: url(asstes/img/icons/mail.svg);
+    background-image: url(/asstes/img/icons/mail.svg);
 }
 
 
